@@ -33,7 +33,7 @@ Ce code de conduite s'applique dans tous les espaces du projet, et il s'applique
 
 ## Mise en vigueur
 
-Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à yakan@amani.consulting . Toutes les plaintes seront examinées et investiguées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe de projet est tenue de maintenir la confidentialité vis-à-vis du rapporteur d'un incident. De plus amples détails sur les politiques d'application spécifiques peuvent être publiés séparément.
+Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à contactacs@amani.consulting . Toutes les plaintes seront examinées et investiguées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe de projet est tenue de maintenir la confidentialité vis-à-vis du rapporteur d'un incident. De plus amples détails sur les politiques d'application spécifiques peuvent être publiés séparément.
 
 Les mainteneurs du projet qui ne suivent pas ou n'appliquent pas le code de conduite de bonne foi peuvent faire face à des répercussions temporaires ou permanentes déterminées par d'autres membres de la direction du projet.
 
