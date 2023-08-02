@@ -11,4 +11,4 @@ Si vous rencontrez un bug ou avez une idée pour améliorer le projet, c'est sup
 
 ## Question sur ACS
 
-Pour toute demande générale sur Sauce Labs et sa plateforme, veuillez contacter notre équipe d'assistance à [yakan@amani.consulting](mailto:yakan@amani.consulting).
+Pour toute demande générale sur Sauce Labs et sa plateforme, veuillez contacter notre équipe d'assistance à [contactacs@amani.consulting](mailto:contactacs@amani.consulting).
